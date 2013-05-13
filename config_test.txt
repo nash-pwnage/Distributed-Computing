@@ -1,0 +1,7 @@
+# A sample configuration file
+# Any text following ‘#’ should be ignored
+2 # Total number of nodes
+0 net34.utdallas.edu 3334 # Location of node 0
+1 net37.utdallas.edu 3337 # Location of node 1
+(0 1) # Edges in the communication graph
+1 # Distinguished node

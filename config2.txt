@@ -1,0 +1,15 @@
+# A ring with 10 nodes
+# Any text following ‘#’ should be ignored
+10 # Total number of nodes
+0 net31.utdallas.edu 7770 # Location of node 0
+1 net22.utdallas.edu 7770 # Location of node 1
+2 net23.utdallas.edu 7770 # Location of node 2
+3 net24.utdallas.edu 7770 # Location of node 3
+4 net25.utdallas.edu 7770 # Location of node 4
+5 net26.utdallas.edu 7770 # Location of node 5
+6 net27.utdallas.edu 7770 # Location of node 6
+7 net28.utdallas.edu 7770 # Location of node 7
+8 net29.utdallas.edu 7770 # Location of node 8
+9 net30.utdallas.edu 7770 # Location of node 9
+(0 1) (1 2) (2 3) (3 4) (4 5) (5 6) (6 7) (7 8) (8 9) (9 0) # Edges in the communication graph
+0 # Distinguished node
